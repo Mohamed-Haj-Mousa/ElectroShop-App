@@ -8,7 +8,6 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 void main() {
   runApp(const MainApp());
 }
-
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
