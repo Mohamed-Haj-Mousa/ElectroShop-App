@@ -7,6 +7,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() {
   runApp(const MainApp());
+  print("Welcome to");
 }
 
 class MainApp extends StatelessWidget {
