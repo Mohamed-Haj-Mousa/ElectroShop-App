@@ -12,6 +12,7 @@ class Product {
   });
 }
 
+
 List<Product> products = [
   Product(
     id: 1,
